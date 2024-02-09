@@ -29,14 +29,15 @@
 
 ### 🚀 Languages
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,html,css,js,mysql,postgres)](https://www.github.com/NisargPipaliya)
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,html,css,js,mysql,postgres)](https://www.github.com/vrajclerk)
 ### 💻 Libraries & Framework
 [![My Skills](https://skillicons.dev/icons?i=tensorflow,react&perline=11&theme=dark)](https://github.com/vrajclerk)
 <a href="https://github.com/vrajclerk" target="_blank" rel="noreferrer"><img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/></a>
 <a href="https://github.com/vrajclerk" target="_blank" rel="noreferrer"><img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/></a>
 <a href="https://github.com/vrajclerk" target="_blank" rel="noreferrer"><img width="120" height="60" src="https://matplotlib.org/_static/logo_dark.svg"></a>
 ### 🧑🏻‍💻 Tools & Platform
-[![My Skills](https://skillicons.dev/icons?i=mongodb,git,github,linux,powershell,eclipse,vscode,idea,jupyterbook)](https://github.com/vrajclerk)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,git,github,linux,powershell,eclipse,vscode,idea)](https://github.com/vrajclerk)
+<a href="https://www.github.com/vrajclerk" target="_blank" rel="noreferrer"><img width="48" height="48" src="https://seeklogo.com/images/A/android-studio-2023-logo-0DAB29430B-seeklogo.com.png" /></a>
 
 
 </details>
@@ -48,7 +49,8 @@
 <a href="https://www.github.com/vrajclerk" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" /></a>
 <a href="https://www.linkedin.com/in/vraj-clerk-0852b222b/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" /></a> 
 <a href="https://twitter.com/VrajClerk_03" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=twitter"  /></a>
-<a href="https://discord.com/users/vrajclerk" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=discord"  /></a>    
+<a href="https://discord.com/users/vrajclerk" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=discord"  /></a>  <a href="https://www.instagram.com/vrajclerk_03/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=instagram"  /></a>    
+
 </div>
 <br>
 <div>
