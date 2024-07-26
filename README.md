@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vrajclerk&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vrajclerk&theme=dark&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrajclerk&size_weight=0.5&count_weight=0.5&layout=pie&theme=dark&langs_count=9) <br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrajclerk&size_weight=0.5&count_weight=0.5&layout=pie&theme=dark&langs_count=10) <br/>
 
 
 ## 🏆 GitHub Trophies
